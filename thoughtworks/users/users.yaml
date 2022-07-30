@@ -8,3 +8,14 @@ metadata:
     picture: 
 spec:
   memberOf: [thoughtworks, awesome-project]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: venujavageek
+  profile:
+    displayName: Venu
+    email: venu@thoughtworks.com
+    picture: 
+spec:
+  memberOf: [thoughtworks, awesome-pet]
